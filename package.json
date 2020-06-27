@@ -1,0 +1,8 @@
+{
+  "name": "prismagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hwakyung/2020_prismagram.git",
+  "author": "chg1213 <chg1213@naver.com>",
+  "license": "MIT"
+}
